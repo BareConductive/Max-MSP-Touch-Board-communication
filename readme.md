@@ -12,6 +12,6 @@ One-way communication from the [Bare Conductive Touch Board](http://www.barecond
 
 ## Install
 
-1. Download the Touch Board Communication Patch
+1. Download the [.zip](https://github.com/BareConductive/Max-MSP-Touch-Board-communication/archive/public.zip) or clone the repository to your local machine - if downloading the .zip, extract the contents somewhere that suits you.
 1. Plug in your Touch Board via USB.
 1. Open the patch and follow the onscreen instructions.
