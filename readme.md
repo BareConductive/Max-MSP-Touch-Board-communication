@@ -1,6 +1,6 @@
-[![Bare Conductive](https://www.dropbox.com/s/7qmvpvst3kal3qv/LOGO_256x106.png?dl=1)](http://www.bareconductive.com/)
+[![Bare Conductive](http://bareconductive.com/assets/images/LOGO_256x106.png)](http://www.bareconductive.com/)
 
-# Bare Conductive Touch Board to Max/MSP Communication
+# Bare Conductive Max/MSP patch for the Touch Board
 
 One-way communication from the [Bare Conductive Touch Board](http://www.bareconductive.com/shop/touch-board/) to Max/MSP. All data types are delivered to the patch via serial communication for use with touch or proximity sensing.
 
